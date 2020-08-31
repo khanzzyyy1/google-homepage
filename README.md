@@ -1,0 +1,2 @@
+this project is about building up the google homepage using html and css. i have used html and css to make navigation bar at the top then i added google image from the 
+given link. Following this i have added search bar using input element and then i added buttons, aligned them to center. Finally a footer was added.
